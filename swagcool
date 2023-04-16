@@ -1,10 +1,1 @@
---\\ do NOT add anyone to this whitelist
---\\ ^ That is a threat and a warning ^
-
-
-TopG = {
-
-
-}
-
-return TopG
+return {}
